@@ -1,0 +1,5 @@
+com\example\crudhtml1\modelo\usuario.class
+com\example\crudhtml1\controlador\controladorUsuario.class
+com\example\crudhtml1\servicio\metodoUsuario.class
+com\example\crudhtml1\ServletInitializer.class
+com\example\crudhtml1\Crudhtml1Application.class
